@@ -25,7 +25,17 @@ Always eager to learn and take on new challenges, I love building creative solut
 ---
 
 ## 🧩 Open Source Contributions
-- 📄 [Research Paper Organizer](https://github.com/supriya46788/Research-Paper-Organizer) – Added dark mode, responsive layout, and UI enhancements (✅ Merged)
+
+- 📄 [Research Paper Organizer](https://github.com/supriya46788/Research-Paper-Organizer)  
+  ✅ Added dark mode toggle, responsive layout, modern UI with SweetAlert2 (🔀 Merged)
+
+- 🌐 [The Cawnpore Magazine Website](https://github.com/Kritika75/TheCawnporeMag.github.io)  
+  ![GSSoC 2025 Contributor](https://img.shields.io/badge/GSSoC%202025-Open%20Source%20Contributor-orange?style=for-the-badge&logo=github&logoColor=white)  
+  ✅ Designed and implemented a dedicated **Open Source** page for GSSoC 2025  
+  ✅ Included GSSoC branding, responsiveness, scroll indicator, and dark mode  
+  🔗 [View PR #59](https://github.com/Kritika75/TheCawnporeMag.github.io/pull/59)
+
+
 
 ---
 
