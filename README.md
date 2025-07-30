@@ -32,8 +32,13 @@ Always eager to learn and take on new challenges, I love building creative solut
 - 🌐 [The Cawnpore Magazine Website](https://github.com/Kritika75/TheCawnporeMag.github.io)  
   ![GSSoC 2025 Contributor](https://img.shields.io/badge/GSSoC%202025-Open%20Source%20Contributor-orange?style=for-the-badge&logo=github&logoColor=white)  
   ✅ Designed and implemented a dedicated **Open Source** page for GSSoC 2025  
-  ✅ Included GSSoC branding, responsiveness, scroll indicator, and dark mode  
-  🔗 [View PR #59](https://github.com/Kritika75/TheCawnporeMag.github.io/pull/59)
+  ✅ Included GSSoC branding, responsiveness, scroll indicator, and dark mode
+  
+- 🏫 [MANIT Study Portal](https://github.com/Anujcodecraft/notes-online)  
+  [![Contributor: MANIT Study Portal](https://img.shields.io/badge/Contributed%20To-MANIT%20Study%20Portal-blueviolet?style=for-the-badge&logo=github)](https://github.com/Anujcodecraft/notes-online)  
+  ✅ Implemented full dark mode with Tailwind CSS v4 and `@custom-variant`  
+  ✅ Created ThemeContext, toggle button, and persisted theme in localStorage  
+  ✅ Updated all components (`pages/`, `Sidebar`, `Navbar`, etc.) for dark mode 
 
 
 
