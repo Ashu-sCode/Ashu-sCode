@@ -89,6 +89,7 @@ University Event Management Platform
 </td>
 </tr>
 </table>
+
 ---
 
 ## 🌍 Open Source Contributions
