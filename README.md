@@ -1,86 +1,162 @@
-# 👋 Hi, I'm Ashutosh! (Ashu-sCode)
+# 👋 Hi, I'm Ashutosh (Ashu-sCode)
 
 ![Visitor](https://komarev.com/ghpvc/?username=Ashu-sCode&color=blue&style=flat-square)
 
 ## 🚀 About Me
-I'm a BCA 3rd year student passionate about **Web Development**, **Networking**, and **Ethical Hacking**.  
-Always eager to learn and take on new challenges, I love building creative solutions and expanding my tech horizons.
+
+🎓 BCA Graduate passionate about **Full-Stack Web Development**, **Technical Support**, and **Cybersecurity**.
+
+I enjoy building scalable web applications, solving real-world problems, and continuously learning modern technologies. Alongside development, I'm interested in networking, Linux, and secure software practices.
+
+🏆 Team Leader & Full Stack Developer – **3rd Place, Hackathon 2025**
 
 ---
 
-## 🛠️ Skills
-- **Languages/Frameworks:** JavaScript, React, Node.js, PHP, SQL, HTML, CSS
-- **Other Interests:** Networking, Ethical Hacking, Open Source
-- 🧠 **Currently Learning:** Supabase, Firebase, Computer Networks, DSA
+## 🛠 Skills
+
+### Languages
+- JavaScript
+- PHP
+- SQL
+- HTML5
+- CSS3
+
+### Frontend
+- React.js
+- Next.js
+- Tailwind CSS
+
+### Backend
+- Node.js
+- Express.js
+- MongoDB
+- Firebase
+
+### Other
+- Git & GitHub
+- Linux (Ubuntu)
+- REST APIs
+- Computer Networks
+- Operating Systems
+- Technical Troubleshooting
 
 ---
 
-## 🌟 Featured Project
+## 🌟 Featured Projects
 
-### [Portfolio Website](https://github.com/Ashu-sCode/Portfolio)  
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-green?style=for-the-badge&logo=netlify)](https://portfolio-ashutoshh.netlify.app/)
+### 🚀 Developer Portfolio + Admin CMS
 
-> My personal portfolio built with modern web technologies, showcasing my work, skills, and journey as a developer.
+🔗 Repository:
+https://github.com/Ashu-sCode/Portfolio
+
+🌐 Live:
+https://portfolio-ashutoshh.netlify.app/
+
+A modern portfolio built using **React 19**, **Tailwind CSS 4**, **Firebase**, and a custom Admin CMS to manage projects, skills, resume, and content dynamically.
+
+**Highlights**
+
+- Firebase Authentication
+- Firestore Database
+- Resume Management
+- Markdown Support
+- EmailJS Contact Form
+- Project Filtering
+- Responsive Design
+- SEO Optimized
 
 ---
 
-## 🧩 Open Source Contributions
+### 🏆 UniEvents
 
-- 📄 [Research Paper Organizer](https://github.com/supriya46788/Research-Paper-Organizer)  
-  ✅ Added dark mode toggle, responsive layout, modern UI with SweetAlert2 (🔀 Merged)
+University Event Management Platform developed during **Hackathon 2025**.
 
-- 🌐 [The Cawnpore Magazine Website](https://github.com/Kritika75/TheCawnporeMag.github.io)  
-  ![GSSoC 2025 Contributor](https://img.shields.io/badge/GSSoC%202025-Open%20Source%20Contributor-orange?style=for-the-badge&logo=github&logoColor=white)  
-  ✅ Designed and implemented a dedicated **Open Source** page for GSSoC 2025  
-  ✅ Included GSSoC branding, responsiveness, scroll indicator, and dark mode
-  
-- 🏫 [MANIT Study Portal](https://github.com/Anujcodecraft/notes-online)  
-  [![Contributor: MANIT Study Portal](https://img.shields.io/badge/Contributed%20To-MANIT%20Study%20Portal-blueviolet?style=for-the-badge&logo=github)](https://github.com/Anujcodecraft/notes-online)  
-  ✅ Implemented full dark mode with Tailwind CSS v4 and `@custom-variant`  
-  ✅ Created ThemeContext, toggle button, and persisted theme in localStorage  
-  ✅ Updated all components (`pages/`, `Sidebar`, `Navbar`, etc.) for dark mode 
+- Team Leader & Full Stack Developer
+- React.js
+- Node.js
+- Express.js
+- MongoDB
 
+🥉 Secured **3rd Place**.
 
+---
+
+## 🌍 Open Source Contributions
+
+### 📄 Research Paper Organizer
+
+- Added Dark Mode
+- Responsive Layout
+- SweetAlert2 Integration
+- Pull Request Merged ✅
+
+---
+
+### 🌐 The Cawnpore Magazine
+
+**GirlScript Summer of Code 2025**
+
+- Developed Open Source Page
+- Dark Mode
+- Responsive UI
+- Scroll Indicator
+
+---
+
+### 🏫 MANIT Study Portal
+
+- Implemented complete Dark Mode
+- Tailwind CSS v4
+- Theme Context
+- localStorage Persistence
 
 ---
 
 ## 🧰 Tech Stack
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css)
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ---
 
-## 📈 GitHub Stats
-![Ashutosh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ashu-sCode&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashu-sCode&layout=compact&theme=radical)
+## 🏅 Achievements
 
+🏆 3rd Place – Hackathon 2025
 
----
+👨‍💻 Team Leader & Full Stack Developer
 
-## 🏆 GitHub Achievements
-
-<img src="https://img.shields.io/badge/Pull%20Shark-blue?logo=github&style=for-the-badge" alt="Pull Shark" />
-<img src="https://img.shields.io/badge/Quickdraw-purple?logo=github&style=for-the-badge" alt="Quickdraw" />
-<img src="https://img.shields.io/badge/Open%20Source-Contributor-blueviolet?style=for-the-badge&logo=github" alt="Contributor" />
+🌍 Open Source Contributor
 
 ---
 
-## 📫 Connect with Me
-- [💼 LinkedIn](https://www.linkedin.com/in/ashutosh452)
-- [📧 Email](mailto:ashutosh7200@gmail.com)
-- [🎯 HackerRank](https://www.hackerrank.com/profile/ashutosh72004)
+## 📫 Connect
+
+💼 LinkedIn
+https://www.linkedin.com/in/ashutosh404
+
+🌐 Portfolio
+https://portfolio-ashutoshh.netlify.app/
+
+📧 Email
+mailto:ashutoshh2508@gmail.com
+
+🐙 GitHub
+https://github.com/Ashu-sCode
 
 ---
 
-## ⚡ Fun Facts
-- I love exploring how the internet works behind the scenes.
-- I'm always up for a hackathon or a coding challenge!
+## 💡 Currently Exploring
+
+- Advanced React Patterns
+- System Design Basics
+- Secure Web Development
+- Backend Architecture
 
 ---
 
-> _Thanks for visiting my profile! Let's connect and build something awesome together._ 🚀
+⭐ If you like my work, consider starring my repositories!
