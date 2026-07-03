@@ -91,20 +91,6 @@ University Event Management Platform
 </table>
 ---
 
-### 🏆 UniEvents
-
-University Event Management Platform developed during **Hackathon 2025**.
-
-- Team Leader & Full Stack Developer
-- React.js
-- Node.js
-- Express.js
-- MongoDB
-
-🥉 Secured **3rd Place**.
-
----
-
 ## 🌍 Open Source Contributions
 
 ### 📄 Research Paper Organizer
