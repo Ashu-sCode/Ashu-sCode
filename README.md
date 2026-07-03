@@ -46,30 +46,49 @@ I enjoy building scalable web applications, solving real-world problems, and con
 - Authentication & Authorization
 
 ---
+## 🚀 Featured Projects
 
-## 🌟 Featured Projects
+<table>
+<tr>
+<td width="50%">
 
-### 🚀 Developer Portfolio + Admin CMS
+### 🌐 Developer Portfolio + Admin CMS
 
-🔗 Repository:
-https://github.com/Ashu-sCode/Portfolio
+Modern portfolio with a custom Firebase-powered CMS.
 
-🌐 Live:
-https://portfolio-ashutoshh.netlify.app/
+✨ **Features**
+- 🔐 Firebase Authentication
+- 📂 Dynamic Project Management
+- 📄 Resume Management
+- 📝 Markdown Support
+- 📧 EmailJS Contact Form
+- ⚡ SEO Optimized
 
-A modern portfolio built using **React 19**, **Tailwind CSS 4**, **Firebase**, and a custom Admin CMS to manage projects, skills, resume, and content dynamically.
+[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github)](https://github.com/Ashu-sCode/Portfolio)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=netlify)](https://portfolio-ashutoshh.netlify.app/)
 
-**Highlights**
+</td>
 
-- Firebase Authentication
-- Firestore Database
-- Resume Management
-- Markdown Support
-- EmailJS Contact Form
-- Project Filtering
-- Responsive Design
-- SEO Optimized
+<td width="50%">
 
+### 🏆 UniEvents
+
+University Event Management Platform
+
+🥉 **Hackathon 2025 – 3rd Place**
+
+✨ **Highlights**
+- 👨‍💻 Team Leader
+- ⚛️ React.js
+- 🚀 Node.js
+- 🍃 MongoDB
+- 📱 Responsive UI
+
+[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github)](https://github.com/Ashu-sCode/UniEvents)
+
+</td>
+</tr>
+</table>
 ---
 
 ### 🏆 UniEvents
