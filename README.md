@@ -83,7 +83,40 @@ University Event Management Platform developed during **Hackathon 2025**.
 
 ## 🌍 Open Source Contributions
 
-- 📄 [Research Paper Organizer](https://github.com/supriya46788/Research-Paper-Organizer) ✅ Added dark mode toggle, responsive layout, modern UI with SweetAlert2 (🔀 Merged) - 🌐 [The Cawnpore Magazine Website](https://github.com/Kritika75/TheCawnporeMag.github.io) ![GSSoC 2025 Contributor](https://img.shields.io/badge/GSSoC%202025-Open%20Source%20Contributor-orange?style=for-the-badge&logo=github&logoColor=white) ✅ Designed and implemented a dedicated **Open Source** page for GSSoC 2025 ✅ Included GSSoC branding, responsiveness, scroll indicator, and dark mode - 🏫 [MANIT Study Portal](https://github.com/Anujcodecraft/notes-online) [![Contributor: MANIT Study Portal](https://img.shields.io/badge/Contributed%20To-MANIT%20Study%20Portal-blueviolet?style=for-the-badge&logo=github)](https://github.com/Anujcodecraft/notes-online) ✅ Implemented full dark mode with Tailwind CSS v4 and @custom-variant ✅ Created ThemeContext, toggle button, and persisted theme in localStorage ✅ Updated all components (pages/, Sidebar, Navbar, etc.) for dark mode ---
+### 📄 Research Paper Organizer
+🔗 https://github.com/supriya46788/Research-Paper-Organizer
+
+- ✅ Added Dark Mode Toggle
+- ✅ Improved Responsive Layout
+- ✅ Enhanced UI with SweetAlert2
+- 🔀 Pull Request Successfully Merged
+
+---
+
+### 🌐 The Cawnpore Magazine Website
+
+![GSSoC 2025 Contributor](https://img.shields.io/badge/GSSoC%202025-Open%20Source%20Contributor-orange?style=for-the-badge&logo=github&logoColor=white)
+
+🔗 https://github.com/Kritika75/TheCawnporeMag.github.io
+
+- ✅ Designed and developed the **Open Source** page
+- ✅ Integrated GSSoC 2025 branding
+- ✅ Added Dark Mode
+- ✅ Implemented Scroll Progress Indicator
+- ✅ Improved Responsiveness
+
+---
+
+### 🏫 MANIT Study Portal
+
+[![Contributor: MANIT Study Portal](https://img.shields.io/badge/Contributed%20To-MANIT%20Study%20Portal-blueviolet?style=for-the-badge&logo=github)](https://github.com/Anujcodecraft/notes-online)
+
+🔗 https://github.com/Anujcodecraft/notes-online
+
+- ✅ Implemented complete Dark Mode using Tailwind CSS v4
+- ✅ Built ThemeContext for theme management
+- ✅ Added Theme Toggle with localStorage persistence
+- ✅ Updated Navbar, Sidebar, Pages, and Components for dark mode support
 
 ---
 
